@@ -1,4 +1,4 @@
-# Landcover segmentation with Segment Anything distilled to Linknet
+# Landcover segmentation with Segment Anything distilled to Linknet experiment
 
 One of significant issues with Segment Anything is its weight and inference time. To predict one frame you need 75 sec on Intel i5 CPU or 6 sec on Nvidia P100 GPU.
 
