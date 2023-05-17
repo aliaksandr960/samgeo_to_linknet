@@ -26,3 +26,5 @@ In this experiment I trained Linknet to act like SAM and got 0.25 sec/frame on a
 
 ![Automatic segmentation example](pic2.jpg?raw=true "Automatic segmentation example")
 ![Automatic segmentation example](pic3.jpg?raw=true "Automatic segmentation example")
+
+Google Colab or Kaggle Notebooks enough to reproduce experiments.
